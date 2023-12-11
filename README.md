@@ -1,4 +1,5 @@
 # covid_19_analysis
+# This COVID-19 analysis reveals significant disparities in death and infection rates globally. China exhibits the lowest likelihood of death and infection, while India faces higher risks. The study calls for in-depth investigations and tailored interventions to enhance healthcare infrastructure, vaccination strategies, and pandemic management worldwide.
 
 REPORT 
 1. Likelihood of Death per Infection: 
